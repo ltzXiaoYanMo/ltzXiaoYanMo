@@ -6,9 +6,12 @@
 
 平常来说，会写点[Python](https://python.org)，我的 Pin 项目你也看到了都是 Python 项目。
 
-[![ltzXiaoYanMo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltzXiaoYanMo)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltzXiaoYanMo&show_icons=true&theme=radical )
+
 
 ### 主要写什么项目？
-![MCSL2 Repository](https://github-readme-stats.vercel.app/api/pin/?username=MCSLTeam&repo=MCSL2)
-![YanMoBit Repository](https://github-readme-stats.vercel.app/api/pin/?username=ltzXiaoYanMo&repo=YanMoBit)
-![NyaLCF Repository](https://github-readme-stats.vercel.app/api/pin/?username=Muska_Ami&repo=NyaLCF)
+![MCSL2 Repository](https://github-readme-stats.vercel.app/api/pin/?username=MCSLTeam&repo=MCSL2&show_icons=true&theme=dark)
+![YanMoBit Repository](https://github-readme-stats.vercel.app/api/pin/?username=ltzXiaoYanMo&repo=YanMoBit&show_icons=true&theme=dark)
+![NyaLCF Repository](https://github-readme-stats.vercel.app/api/pin/?username=Muska-Ami&repo=NyaLCF&show_icons=true&theme=dark)
+
+<!-- 卡片信息来自 GitHub-Readme-Stats-->
