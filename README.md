@@ -11,4 +11,4 @@
 ### 主要写什么项目？
 ![MCSL2 Repository](https://github-readme-stats.vercel.app/api/pin/?username=MCSLTeam&repo=MCSL2)
 ![YanMoBit Repository](https://github-readme-stats.vercel.app/api/pin/?username=ltzXiaoYanMo&repo=YanMoBit)
-![YanMoBit Repository](https://github-readme-stats.vercel.app/api/pin/?username=Muska_Ami&repo=NyaLCF)
+![NyaLCF Repository](https://github-readme-stats.vercel.app/api/pin/?username=Muska_Ami&repo=NyaLCF)
