@@ -1,5 +1,5 @@
 ## Hello!
-我是 [ltzXiaoYanMo](https://ymbit.cn) 一名初三学生，又是个屑玩意（？）
+我是 [ltzXiaoYanMo](https://ymbit.cn) 一名新高一学生，又是个屑玩意（？）
 ### 日常干什么？
 
 ~~睡觉~~，当然不是啦（
