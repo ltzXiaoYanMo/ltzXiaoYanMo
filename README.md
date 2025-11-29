@@ -1,9 +1,6 @@
 ## Hello!
-我是 [ltzXiaoYanMo](https://ymbit.cn) 一名新高一学生，又是个屑玩意（？）
+我是 [ltzXiaoYanMo](https://ymbit.cn) 一名高二学生
 ### 日常干什么？
-
-~~睡觉~~，当然不是啦（
-
 平常来说，会写点[Python](https://python.org)，我的 Pin 项目你也看到了都是 Python 项目。
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltzXiaoYanMo&show_icons=true&theme=radical )
